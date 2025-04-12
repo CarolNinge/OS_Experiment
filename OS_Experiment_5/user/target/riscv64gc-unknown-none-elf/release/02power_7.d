@@ -1,0 +1,1 @@
+/mnt/GardenerOS/user/target/riscv64gc-unknown-none-elf/release/02power_7: /mnt/GardenerOS/user/src/bin/02power_7.rs /mnt/GardenerOS/user/src/console.rs /mnt/GardenerOS/user/src/lang_items.rs /mnt/GardenerOS/user/src/lib.rs /mnt/GardenerOS/user/src/syscall.rs
